@@ -1,5 +1,5 @@
 # intelbrew
-Homebrew 5+ for Intel Macs
+Homebrew 5+ for Intel Macs -  because f**k you,
 
 
 # 🚀 Legacy Intel Mac Core Booster (Homebrew 5 + Shell Fixes + Local AI)
